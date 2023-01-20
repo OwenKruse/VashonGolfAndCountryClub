@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/vashon-golf-and-country-club.iml" filepath="$PROJECT_DIR$/.idea/vashon-golf-and-country-club.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../vashonbuild/.idea/vashonbuild.iml" filepath="$PROJECT_DIR$/../vashonbuild/.idea/vashonbuild.iml" />
     </modules>
   </component>
 </project>
